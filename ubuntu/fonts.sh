@@ -12,7 +12,7 @@ rm FiraCode.zip
 ##### Clear Sans ###############################################################
 ### https://www.fontsquirrel.com/fonts/clear-sans
 
-wget https://www.fontsquirrel.com/fonts/download/clear-sans
+wget https://www.fontsquirrel.com/fonts/download/clear-sans -O clear-sans.zip
 unzip clear-sans.zip -d .fonts/
 
 rm clear-sans.zip

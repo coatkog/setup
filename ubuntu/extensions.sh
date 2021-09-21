@@ -4,7 +4,7 @@ sudo apt purge gnome-shell-extension-appindicator
 sudo apt purge gnome-shell-extension-ubuntu-dock
 
 ##### Install GNOME Shell integration Chrome extension #########################
-sudo apt install chrome-gnome-shell
+sudo apt install -y chrome-gnome-shell
 
 ##### Install User Themes extension ############################################
 echo "Install https://extensions.gnome.org/extension/19/user-themes/"

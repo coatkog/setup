@@ -1,11 +1,11 @@
 ##### Update the system ########################################################
 sudo apt update
-sudo apt upgrade
+sudo apt upgrade -y
 
 ##### apt packages #############################################################
-sudo apt install gnome-tweaks
-sudo apt install flatpak
-sudo apt install git
+sudo apt install -y gnome-tweaks
+sudo apt install -y flatpak
+sudo apt install -y git
 
 ##### Filesystem setup #########################################################
 mkdir -p ~/source/repos
