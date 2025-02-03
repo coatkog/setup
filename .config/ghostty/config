@@ -1,9 +1,11 @@
 theme = Adwaita Dark
 background-opacity = 0.90
+unfocused-split-opacity = 0.10
 font-family = IosevkaTreeLig Nerd Font
 font-size = 12
 window-padding-x = 12
 window-padding-y = 12
+window-padding-balance = true
 
 keybind = alt+up=goto_split:top
 keybind = alt+down=goto_split:bottom
